@@ -1,0 +1,23 @@
+.header-app {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    background-color: rgb(88, 85, 85);
+    }
+
+.header-app ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+}
+
+.header-app a {
+    padding: 0.5rem 1rem;
+    border: 1px solid rgb(240, 236, 245);
+    color: rgb(245, 242, 248);
+    border-radius: 25px;
+}
+
+.header-app p {
+    color: rgb(254, 255, 255);
+}
